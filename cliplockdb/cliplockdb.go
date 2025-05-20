@@ -107,6 +107,6 @@ func CreateCustomers() error {
 		return err
 	}
 
-	log.Println("Table 'customers' checked/created successfully.")
+	log.Println("Table 'customers' checked/created successfully now.")
 	return nil
 }
